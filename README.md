@@ -66,12 +66,12 @@ const angga = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggamulya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggamulya&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angga1992&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angga1992&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggamulya&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angga1992&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ const angga = {
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anggamulya&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angga1992&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ const angga = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anggamulya&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=angga1992&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ const angga = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-emuldev.net-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://emuldev.web.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emuldev.web.id-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://emuldev.web.id)
 [![Email](https://img.shields.io/badge/Email-anggamulya.ghazy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggamulya.ghazy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggamulya)
 
