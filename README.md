@@ -17,7 +17,7 @@ const angga = {
   role: "Fullstack Developer",
   experience: "11+ years",
   location: "Indonesia 🇮🇩",
-  portfolio: "https://emuldev.net",
+  portfolio: "https://emuldev.web.id",
   focus: ["Web Apps", "Mobile Apps", "AI Integration"],
   currentlyWorkingOn: "AI-generated platforms & intelligent automation",
   funFact: "I've shipped apps for Telkom, MNC Media, and government clients 🚀",
@@ -111,7 +111,7 @@ const angga = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-emuldev.net-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://emuldev.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emuldev.net-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://emuldev.web.id)
 [![Email](https://img.shields.io/badge/Email-anggamulya.ghazy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggamulya.ghazy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggamulya)
 
